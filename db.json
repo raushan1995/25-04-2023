@@ -1,0 +1,48 @@
+{
+  "seller": [
+    {
+      "name": "raushan",
+      "password": "abcd",
+      "email": "priyanshu1996r@gmail.com",
+      "id": 1
+    }
+  ],
+  "products": [
+    {
+      "name": "nokia",
+      "price": "500",
+      "color": "black",
+      "category": "mobile",
+      "description": "good product",
+      "image": "https://images.pexels.com/photos/1092644/pexels-photo-1092644.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "id": 2
+    },
+    {
+      "name": "samsung",
+      "price": "10000",
+      "color": "black",
+      "category": "mobile",
+      "description": "good product",
+      "image": "https://images.pexels.com/photos/607812/pexels-photo-607812.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "id": 4
+    },
+    {
+      "name": "nokia",
+      "price": "5000",
+      "color": "black",
+      "category": "mobile",
+      "description": "budget product",
+      "image": "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "id": 5
+    },
+    {
+      "name": "samsung",
+      "price": "12000",
+      "color": "white",
+      "category": "mobile",
+      "description": "new arrival",
+      "image": "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "id": 6
+    }
+  ]
+}
